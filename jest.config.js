@@ -13,8 +13,5 @@ module.exports = {
         "jsx",
         "json",
         "node"
-    ],
-    "setupFilesAfterEnv": [
-        "<rootDir>/test/testdouble.config.js"
     ]
 };
