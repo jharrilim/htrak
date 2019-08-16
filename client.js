@@ -30,3 +30,5 @@ io.on('checkHome', ({ message }) => {
 });
 
 io.on('message', console.log);
+
+io.on('leftHome', console.log);
